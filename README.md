@@ -3,7 +3,7 @@
 ## Implementation
 - Python and PySpark
 - Spark MLlib: alternating least squares (ALS) algorithm (collaborative filtering and matrix factorization)
-- Google Cloud Platform: dataset was stored on GCP and the code was run on a virtual machine
+- Google Cloud Platform
 
 ## Results 
 ![image](https://user-images.githubusercontent.com/78432605/117915362-1d931280-b2b3-11eb-9233-15daa01587ce.png)
